@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lievin219/react-project-course/static/css/main.52b35599.css",
+    "main.js": "/lievin219/react-project-course/static/js/main.69aa9583.js",
+    "index.html": "/lievin219/react-project-course/index.html",
+    "main.52b35599.css.map": "/lievin219/react-project-course/static/css/main.52b35599.css.map",
+    "main.69aa9583.js.map": "/lievin219/react-project-course/static/js/main.69aa9583.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b35599.css",
+    "static/js/main.69aa9583.js"
+  ]
+}

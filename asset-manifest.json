@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/lievin219/react-project-course/static/css/main.52b35599.css",
-    "main.js": "/lievin219/react-project-course/static/js/main.69aa9583.js",
-    "index.html": "/lievin219/react-project-course/index.html",
-    "main.52b35599.css.map": "/lievin219/react-project-course/static/css/main.52b35599.css.map",
-    "main.69aa9583.js.map": "/lievin219/react-project-course/static/js/main.69aa9583.js.map"
+    "main.css": "/react-project-course/static/css/main.52b35599.css",
+    "main.js": "/react-project-course/static/js/main.69aa9583.js",
+    "index.html": "/react-project-course/index.html",
+    "main.52b35599.css.map": "/react-project-course/static/css/main.52b35599.css.map",
+    "main.69aa9583.js.map": "/react-project-course/static/js/main.69aa9583.js.map"
   },
   "entrypoints": [
     "static/css/main.52b35599.css",
